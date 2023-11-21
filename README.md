@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <h2 align="center">AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort</h2>
+  <h2 align="center">AutoStory: <br> Generating Diverse Storytelling Images with Minimal Human Effort</h2>
   <p align="center">
     <a href="https://github.com/encounter1997"><strong>Wen Wang*</strong></a>
     ·
