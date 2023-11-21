@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<h1>AutoStory</h1>
+<!-- <h1>AutoStory</h1> -->
 
 
 <p align="center">
