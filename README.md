@@ -63,5 +63,5 @@ If you find our work useful, please consider citing:
 
 ## 🎫 License
 For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
-For commercial use, please contact [Chunhua Shen](chhshen@gmail.com).
+For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com).
 
