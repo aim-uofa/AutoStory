@@ -56,8 +56,8 @@ If you find our work useful, please consider citing:
 @article{AutoStory,
   title={AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort},
   author={Wang, Wen and Zhao, Canyu and Chen, Hao and Chen, Zhekai and Zheng, Kecheng and Shen, Chunhua},
-  publisher={arXiv preprint arXiv:2311.11243},
-  year={2023},
+  journal={Int. J. Computer Vision},
+  year={2024},
 }
 ```
 
